@@ -1,0 +1,15 @@
+{
+  "name": "ShortStack",
+  "tree": {
+    "$className": "DataModel",
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "ShortStack": {
+          "$path": "src/client"
+        }
+      }
+    }
+  }
+}
