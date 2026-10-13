@@ -1,0 +1,15 @@
+# Roblox place/model build output
+/build/
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Local tool state
+/.aftman/
+/.rojo/
+aftman.lock
+
+# Python checks
+__pycache__/
+*.py[cod]
